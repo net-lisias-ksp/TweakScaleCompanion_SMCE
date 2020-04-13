@@ -1,0 +1,30 @@
+  
+{
+    "spec_version"     : "v1.0",
+    "$kref"            : "#/ckan/spacedock/???",
+    "$vref"            : "#/ckan/ksp-avc",
+    "identifier"       : "TweakScaleCompanion_SMCE",
+    "name"             : "TweakScale Companion for SMCE's AddOn",
+    "abstract"         : ""
+    "license"          : "GPL-2.0 & SKL-1.0",
+    "release_status"   : "development",
+    "x_netkan_force_v" : true,
+    "author": [
+        "OnlyLightMatters"
+    ],
+    "install" : [
+        {
+            "file" : "GameData/TweakScaleCompanion/SMCE",
+            "install_to" : "GameData/TweakScaleCompanion/SMCE"
+        }
+    ],
+    "resources": {
+        "homepage":   "https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*",
+        "repository": "https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE"
+    },
+    "depends" : [
+        { "name" : "ModuleManager", "min_version" : "4.0.3" },
+        { "name" : "TweakScaleCore", "min_version" : "2.4.4" },
+        { "name" : "LargeBoatPartsPack" : 3.9.2 }
+    ]
+}
