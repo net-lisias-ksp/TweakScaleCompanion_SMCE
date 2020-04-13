@@ -12,6 +12,8 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 * Extract the package's `GameData/` folder into your KSP's as follows:
 	+ `<PACKAGE>/GameData/TweakScaleCompanion/SMCE/*` --> `<KSP_ROOT>/GameData/TweakScaleCompanion/SMCE`
 		- Overwrite any preexisting file.
+	+ `<PACKAGE>/GameData/LShipPartsRequired/*` --> `<PACKAGE>/GameData/LShipPartsRequired`
+		- Overwrite any preexisting file.
 
 The following file layout must be present after installation:
 

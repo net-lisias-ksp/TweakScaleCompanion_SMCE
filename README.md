@@ -58,6 +58,8 @@ Detailed installation instructions are now on its own file (see the [In a Hurry]
 			- You don't mix your work with GPL incompatible works.
 	+ If by some reason the GPL would be invalid for you, rest assured that you still retain the right to Use the Work under SKL 1.0. 
 
+Some few files are licensed under [CC-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See [here](./LICENSE.LSHIPPARTS.CCSA-4_0) for details.
+
 See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 
 
