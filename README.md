@@ -8,7 +8,7 @@ Adds TweakScale /L patches for SMCE Add'Ons.
 * [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE)
 	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE/issues)
 * Documentation
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-141-tweakscale-under-new-management/&) (for while)
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/)
 	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE/blob/master/README.md)
 	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
