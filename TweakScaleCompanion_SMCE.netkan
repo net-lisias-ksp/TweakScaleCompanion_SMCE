@@ -6,7 +6,7 @@
     "identifier"       : "TweakScaleCompanion_SMCE",
     "name"             : "TweakScale Companion for SMCE's AddOn",
     "abstract"         : ""
-    "license"          : "GPL-2.0 & SKL-1.0",
+    "license"          : [ "GPL-2.0", "restricted" ],
     "release_status"   : "development",
     "x_netkan_force_v" : true,
     "author": [
@@ -15,7 +15,7 @@
     "install" : [
         {
             "file" : "GameData/TweakScaleCompanion/SMCE",
-            "install_to" : "GameData/TweakScaleCompanion/SMCE"
+            "install_to" : "GameData/TweakScaleCompanion"
         }
     ],
     "resources": {
